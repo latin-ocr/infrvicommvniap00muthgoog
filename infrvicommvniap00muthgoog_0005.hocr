@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./infrvicommvniap00muthgoog/infrvicommvniap00muthgoog_0005.png"; bbox 0 0 3092 5258; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 435 1990 1406 2138">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 435 1990 1406 2138">
+     <span class='ocr_line' id='line_1_1' title="bbox 435 1990 1406 2064; baseline -0.006 -17"><span class='ocrx_word' id='word_1_1' title='bbox 435 1994 481 2048; x_wconf 85' lang='lat' dir='ltr'>ET</span> <span class='ocrx_word' id='word_1_2' title='bbox 498 1991 636 2046; x_wconf 82' lang='lat' dir='ltr'><strong>VENIAM</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 661 1992 730 2047; x_wconf 82' lang='lat' dir='ltr'>PRO</span> <span class='ocrx_word' id='word_1_4' title='bbox 749 1992 868 2046; x_wconf 83' lang='lat' dir='ltr'>LAVDE</span> <span class='ocrx_word' id='word_1_5' title='bbox 887 1991 994 2064; x_wconf 81' lang='lat' dir='ltr'>PET03</span> <span class='ocrx_word' id='word_1_6' title='bbox 1018 1990 1208 2047; x_wconf 84' lang='lat' dir='ltr'><strong>LAVDATVS</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1233 1991 1406 2047; x_wconf 65' lang='lat' dir='ltr'>ABVNDE„</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 436 2079 1136 2138; baseline 0.001 -3"><span class='ocrx_word' id='word_1_8' title='bbox 436 2079 511 2135; x_wconf 80' lang='lat' dir='ltr'>NON</span> <span class='ocrx_word' id='word_1_9' title='bbox 528 2081 735 2136; x_wconf 85' lang='lat' dir='ltr'>FASTIDITVS</span> <span class='ocrx_word' id='word_1_10' title='bbox 757 2083 790 2136; x_wconf 89' lang='lat' dir='ltr'>SI</span> <span class='ocrx_word' id='word_1_11' title='bbox 808 2083 880 2136; x_wconf 89' lang='grc' dir='ltr'><strong>ΤΙΒΙ</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 896 2081 1038 2138; x_wconf 51' lang='grc' dir='ltr'>ΙΛΕΟΤΟΒ,</span> <span class='ocrx_word' id='word_1_13' title='bbox 1055 2081 1136 2138; x_wconf 81' lang='lat' dir='ltr'><strong>ERO.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1158 2168 1310 2224">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1158 2168 1310 2224">
+     <span class='ocr_line' id='line_1_3' title="bbox 1158 2168 1310 2224; baseline -0.013 0"><span class='ocrx_word' id='word_1_14' title='bbox 1158 2168 1310 2224; x_wconf 87' lang='lat' dir='ltr'>OVIDIVS.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1550 5252">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1550 5252">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1550 5252; baseline 0 0"><span class='ocrx_word' id='word_1_15' title='bbox 0 0 1550 5252; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
